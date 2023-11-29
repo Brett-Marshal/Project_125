@@ -1,0 +1,44 @@
+.NOTE
+{
+    color: red;
+    font-size:20px;
+}
+
+.heading
+{
+    font-size:25px;
+    margin:0;
+    width:99%;
+    box-shadow: 5px 5px 5px rgb(87, 85, 85);
+}
+
+#copyRight
+{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+    background-color:gray;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px rgb(92, 84, 84);
+    border: 10px ridge rgb(129, 0, 0);
+    border-radius:25px;
+    background-color: lightgray;
+    margin-right:30px;
+}
+
+video 
+{
+    margin-left:40px;
+    margin-top:50px;
+    border:10px solid maroon;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px gray;
+    background-color:lightgray;
+}
+
